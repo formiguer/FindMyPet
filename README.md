@@ -14,6 +14,10 @@ municipios, protectoras y veterinarios por isla.
 - Desplegables encadenados isla → municipio (`select_dependientes*`).
 - Panel básico para editar/borrar anuncios (`edit/`).
 
+## Demo estática
+En `docs/` hay una versión estática (anuncios ficticios) para GitHub Pages; el buscador y el formulario no funcionan.
+Se regenera con `bash tools/build_demo.sh` (necesita PHP 8 CLI).
+
 ## Estructura
 | Ruta | Contenido |
 |---|---|
@@ -44,5 +48,5 @@ Tablas: `formulario` (anuncios), `poblacion`, `protectoras`, `veterinarios`.
 - `mysql_*` obsoleto: migrar a PDO/mysqli para usar PHP 8.
 - Consultas SQL construidas con datos del usuario (inyección SQL).
 - `edit/` no tiene autenticación.
-- `buscar.php` tiene un error de sintaxis heredado.
+- Usa etiquetas cortas `<?` (necesitan `short_open_tag=On`).
 - Teléfono guardado como `int`, lo que no admite prefijos.
