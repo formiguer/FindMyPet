@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/plantillabase.dwt.php" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Animals and Pets</title>
+<!-- InstanceEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="styles.css" rel="stylesheet" type="text/css" />
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+</head>
+<body>
+<div id="templatemo_container">
+  <div id="templatemo_topsection">
+    <?php include("includes/cabecera.php"); ?>
+    <?php include("includes/menu.php"); ?>
+  </div>
+<div id="templatemo_left_column"><!-- InstanceBeginEditable name="imagen izq" -->
+  <div id="templatemo_left_top"></div>
+<!-- InstanceEndEditable -->
+ <?php include("includes/barraizq.php"); ?>
+  
+  <div id="templatemo_right_column">
+    <div id="templatemo_right_top"></div>
+    <!-- InstanceBeginEditable name="cuerpo" -->
+    <div id="templatemo_right_mid">
+      <h1>PASOS A SEGUIR</h1>
+      <h2>HE PERDIDO MI MASCOTA </h2>
+      <p> <img src="images/lost.jpg" alt="" width="139" height="137" />
+      Sabemos que hay muchísimas páginas en las que te explican que hacer cuando tu fiel amigo desaparece o se escapa, pero nuestra intención no es redactar lo mismo  una vez más sino explicar lo que realmente a nosotros nos  funcionó  después de pasar por perder a nuestra mascota o encontrar la mascota de otra persona.
+ Espero, de corazón, que os sea de gran ayuda.<br>
+ Si pierdes a tu compañero,  lo primero  y antes de todo  es no perder los nervios, hay que mantenerse tranquilo y seguir los siguientes pasos:<br>
+      <ol>
+     <li>Si se acaba de perder búscalo rápidamente por la zona  donde se ha perdido, preguntando a todo el mundo que te encuentres por el camino, no te des por vencido.</li>
+     <li>Si no encuentras a tu mascota  dirígete a las clínicas veterinarias  más cercanas de  la zona.</li>
+     <ul>
+     <li>Si se pierde por la <span style="color: black;">zona donde vives</span> , acude a todas esas clínicas que conozcas sean o no tu clínica habitual, aunque recomendamos  que para hacerlo todo más rápido, acudas primero a tu clínica, ya que si no llevas el pasaporte de tu mascota, ellos tendrán toda la información, siendo lo más importante el número de microchip, que te lo pueden dar  y así puedes proporcionárselo al resto de clínicas a las que acudas posteriormente, igualmente ellos darán aviso al Colegio Oficial Veterinario de las Islas Baleares (COVIB), informando sobre la pérdida de ese animal.</li>
+     <li>En caso de solo estar <span style="color: black;">de visita en una zona</span> y no conocer  los veterinarios que hay más cerca  busca en nuestro  apartado “ Veterinarios” , donde encontraras, rápidamente,  todos los veterinarios que hay tanto por islas, municipios y barrios si es el caso de  Palma capital, aun así también recomendamos que si no llevas contigo el pasaporte de tu mascota contactes con tu veterinario para que te pueda facilitar los datos del microchip  antes de acudir a las clínicas de la zona. Así todo  será muchísimo más rápido.</li>
+      </ul>
+     <li>Una vez en la clínica, proporciona al veterinario toda la información, cuanta más mejor, de tu mascota. <br><span style="color: green; ">RECOMENDACIÓN NUESTRA: Siempre lleva contigo una foto de tu mascota  en tu móvil, cuesta muy poco y resulta muy útil en estos casos. </span></li>
+     <li>Después de visitar a todos los veterinarios de la zona y sin éxito de encontrar a tu mascota, publica en diferentes páginas un anuncio con todos los datos de tu mascota. En nuestra sección “Publicar” podrás poner rápidamente un anuncio en nuestra página, y en la sección  “Facebook, Twitter y Páginas web” encontraras  muchas otras  donde también poder publicar, cuantas más personas vean tu anuncio antes volverá a tu lado. <br><span style="color: green; ">RECOMENDACIÓN NUESTRA: Pon siempre una imagen. </span></li>
+     <li>Crea un cartel con toda la información que puedas, y con una foto (mucho mejor si la foto ocupa medio folio). Pégalo en todas las clínicas veterinarias, tiendas, bares y grandes establecimientos de la zona, lo importante es colocarlos en lugares en los que sabes que todo el mundo acudirá alguna vez.</li>
+     <li>Por último, y lo más importante, <span style="color: black;">SAL CADA DIA A BUSCARLO Y NUNCA PIERDAS LA ESPERANZA.</span></li>
+      </ol> 
+ </p>
+   <h2>HE ENCONTRADO UN ANIMAL PERDIDO</h2>   
+      <p><img src="images/encontrado.jpg" alt="" width="139" height="137" />
+     <ol>
+     <li>Si acabas de encontrar a un animal perdido  recorre rápidamente  la zona  donde lo has encontrado, preguntando a todo el mundo que te encuentres por el camino, por  si saben de quien es.</li>
+     <li>Si no encuentras al dueño  dirígete a las clínicas veterinarias  más cercanas de  la zona.</li>
+     <ul>
+     <li>Si lo encuentras  por la <span style="color: black;">zona donde vives</span>, acude a todas esas clínicas que conozcas sean o no tu clínica habitual, ellos miraran si el animal pertenece a su base de datos o si tiene microchip y así poder llamar a sus dueños, igualmente ellos darán aviso al Colegio Oficial Veterinario de las Islas Baleares (COVIB), informando sobre las características  del animal encontrado, por si sus dueños ya han acudido a otra clínica y han dado parte de su pérdida.</li>
+     <li>En caso de solo estar <span style="color: black;"> de visita en una zona</span>  y no conocer  los veterinarios  más cercanos busca en nuestro  apartado “ Veterinarios”  donde encontraras, rápidamente,  todos los veterinarios que hay tanto  por islas, municipios y barrios( si es el caso de  Palma capital). Es más probable que los veterinarios de la zona puedan tener información sobre esa mascota.</li>
+     </ul>
+     <li>Después de visitar a todos los veterinarios de la zona y sin éxito de encontrar a su dueño, publica en diferentes páginas un anuncio con todos los datos de la mascota. En nuestra sección “Publicar” podrás poner rápidamente un anuncio en nuestra página, y en la sección  “Protectoras”  encontraras  muchas otras  donde también poder publicar, cuantas más personas vean tu anuncio antes encontraras a sus dueños y regresará a su hogar.<br><span style="color: green; ">RECOMENDACIÓN NUESTRA: Pon siempre una imagen. </span> <br></li>
+     <li>Crea un cartel con toda la información que puedas, y con una foto (mucho mejor si la foto ocupa medio folio). Pégalo en todas las clínicas veterinarias, tiendas, bares y grandes establecimientos de la zona, lo importante es colocarlos en lugares en los que sabes que todo el mundo acudirá alguna vez durante el día.</li>
+     <li>Por último, y lo más importante,<span style="color: black;">SIGUE BUSCANDO A SU DUEÑO, PORQUE SEGURO QUE ÉL ESTA BUSCANDO A SU MASCOTA.</span> </li>
+ </ol> 
+</p>
+      
+      <p>&nbsp;</p>
+      
+      
+    </div>
+    <!-- InstanceEndEditable -->
+    <?php include("includes/pie.php"); ?>
+  </div>
+</div>
+</body>
+<!-- InstanceEnd --></html>

@@ -1,0 +1,23 @@
+services:
+  web:
+    build: .
+    ports:
+      - "8080:80"
+    environment:
+      DB_HOST: db
+      DB_USER: mascotas
+      DB_PASSWORD: mascotas
+      DB_DATABASE: mascotas
+    volumes:
+      - .:/var/www/html
+    depends_on:
+      - db
+  db:
+    image: mysql:5.7
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: mascotas
+      MYSQL_USER: mascotas
+      MYSQL_PASSWORD: mascotas
+    volumes:
+      - ./mascotas.sql:/docker-entrypoint-initdb.d/mascotas.sql
